@@ -1,3 +1,9 @@
+/**
+ * @Author: Jobet P. Casquejo
+ * @Date: 2025-31-8
+ * @Version: 1.0
+ * @Description: Model class for roles entities.
+ */
 package com.edutrack.edutrack.models;
 
 import jakarta.persistence.*;

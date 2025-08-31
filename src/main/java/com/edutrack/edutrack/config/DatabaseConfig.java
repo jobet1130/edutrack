@@ -1,3 +1,9 @@
+/**
+ * @Author: Jobet P. Casquejo
+ * @Date: 2025-31-8
+ * @Version: 1.0
+ * @Description: Configuration class for database connection.
+ */
 package com.edutrack.edutrack.config;
 
 import javax.sql.DataSource;
